@@ -47,10 +47,17 @@ I am a motivated Machine Learning Engineer with 3 years of experience in develop
 
 ## 💼 Professional Experience
 
+### AI Engineer Intern
+**RadicalAI** | Remote | July 2024 - Present
+- Developed an AI-powered quiz generation tool leveraging Google Gemini, LangChain, and ChromaDB, resulting in a 20% increase in user engagement and retention metrics.
+- Implemented a vector database using RAG to enhance the efficiency and accuracy of the quiz generation process, leading to a 30% reduction in processing time.
+- Revamped environment variable management system by transitioning from .env files to Google Cloud Secrets Manager, increasing security measures and reducing the risk of sensitive information exposure.
+- Automated feature deployment process by creating a CI/CD pipeline using GitHub actions and Docker, reducing feature staging time by 20%.
+
 ### Junior Machine Learning Engineer
-**Omdena** | Remote | Apr 2024 - Present
+**Omdena** | Remote | Apr 2024 - June 2024
 - Developed and optimized ensemble machine learning models to predict claim amounts for personal injury cases with a 70% accuracy rate.
-- Implemented XGBoost and LightGBM regression models, improving prediction accuracy by 20%.
+- Implemented Random Forest regression models, improving prediction accuracy by 20%.
 - Utilized pandas and numpy for data preprocessing, reducing overall processing time by 10%.
 - Led geospatial data collection, increasing project efficiency and accuracy by 25%.
 
@@ -96,8 +103,10 @@ I am a motivated Machine Learning Engineer with 3 years of experience in develop
 
 ## 🏆 Certifications
 
+- Microsoft Certified Azure Fundamentals | Microsoft | expected Oct 2024
+- Machine Learning on AWS Deep Dive | A Cloud Guru | Sept 2024
+- AWS Certified Cloud Practioner | AWS | Jul 2024
 - Databricks for Machine Learning | Databricks | May 2024
-- Machine Learning on AWS Deep Dive | A Cloud Guru | May 2024
 - Data Visualization with Tableau Specialization | UC Davis | Mar 2024
 - Generative AI with Large Language Models | deeplearning.ai | Feb 2024
 - ML Engineering for Production Specialization | deeplearning.ai | Oct 2023
